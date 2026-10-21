@@ -25,27 +25,3 @@ const Venta = sequelize.define('Venta', {
 });
 
 module.exports = Venta;
-
-/*
-await Venta.create({
-    cliente: "Mauricio",
-    productos: [
-        {
-            producto: "RTX 3080",
-            cantidad: 1,
-            precio: 800000
-        },
-        {
-            producto: "Ryzen 5 5600X",
-            cantidad: 1,
-            precio: 250000
-        },
-        {
-            producto: "Mouse Logitech",
-            cantidad: 2,
-            precio: 50000
-        }
-    ],
-    precio_final: 1150000
-});
-*/
