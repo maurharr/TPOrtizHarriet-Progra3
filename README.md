@@ -8,3 +8,22 @@ El sistema simula un e-commerce con estilo de autoservicio (similar a los termin
 - Seleccionar los productos de manera autónoma y rapida.
 - Gestionar su carrito de compras.
 - Finalizar la compra y recibir un ticket.
+
+## Caracteristicas Principales
+### Parte del Cliente
+- Pantalla de Bienvenida: Registro del nombre del cliente.
+- Selección de Categorias: Visualización de las categorias disponibles.
+- Catálogo de Productos: Visualización de productos de hardware filtrados por la categoria seleccionada.
+- Carrito de Compras: Gestión de productos con cantidades variables.
+- Generación de Ticket: Ticket digital descargable en PDF.
+- Modo Claro/Oscuro: Tema personalizable persistente.
+- Diseño Responsive: Adaptado para móviles y escritorio.
+
+### Parte del Administrador
+- Sistema de Login: Autenticación.
+- Dashboard: Panel de control con listado completo de productos.
+- Alta de Productos: Formulario para agregar nuevos productos.
+- Modificación de Productos: Edición de datos e imágenes.
+- Baja Lógica: Activación/desactivación de productos.
+- Gestión de Ventas: Visualización del historial de ventas.
+
